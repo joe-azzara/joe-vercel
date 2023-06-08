@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "express": "^4.17.2",
     "next": "^10.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "description": "This is a starter template for [Learn Next.js](https://nextjs.org/learn).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
